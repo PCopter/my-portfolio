@@ -49,6 +49,5 @@ function typeEffect() {
   setTimeout(typeEffect, isDeleting ? typingSpeed / 2 : typingSpeed);
 }
 
-
-
 typeEffect();
+
